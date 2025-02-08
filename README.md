@@ -1,8 +1,4 @@
-## Olá, sou um Desenvolvedor e Entusiasta de Tecnologia!
-
 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento web, blockchain e ciência de dados. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
-
-### 🚀 Tecnologias e Ferramentas:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
@@ -15,13 +11,13 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, com foc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
 </div>
 
-### 📌 Áreas de Interesse:
+📌 Áreas de Interesse:
 - Desenvolvimento Full-Stack
 - Blockchain e Contratos Inteligentes ( Web3 )
 - APIs e Integrações
 - Ciência de Dados e Machine Learning
 
-### 📫 Contato:
+📫 Contato:
 - LinkedIn: https://www.linkedin.com/in/viniciusmaffra/
 - E-mail: viniciushmdem15@gmail.com
 - Portfólio: https://github.com/vinimaffra03/vinimaffra03
