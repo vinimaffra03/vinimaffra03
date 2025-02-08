@@ -1,5 +1,4 @@
 ## Olá, sou um Desenvolvedor e Entusiasta de Tecnologia!
-<style="background-color: #5e5e5e;"/>
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento web, blockchain e ciência de dados. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
 
