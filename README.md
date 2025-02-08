@@ -23,7 +23,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, com foc
 
 ### 📫 Contato:
 - LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- E-mail: [seu@email.com](mailto:seu@email.com)
-- Portfólio: [Seu Portfólio](https://seuportfolio.com)
+- E-mail: viniciushmdem15@gmail.com
+- Portfólio: https://github.com/vinimaffra03/vinimaffra03
 
 Sinta-se à vontade para explorar meus repositórios e colaborar comigo em projetos interessantes!
