@@ -1,10 +1,11 @@
 ## Olá, sou um Desenvolvedor e Entusiasta de Tecnologia!
+<style="background-color: #5e5e5e;"/>
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, com foco em desenvolvimento web, blockchain e ciência de dados. Busco constantemente aprimorar minhas habilidades e contribuir para projetos inovadores.
 
 ### 🚀 Tecnologias e Ferramentas:
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: #5e5e5e">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
