@@ -22,5 +22,3 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, com foc
 - LinkedIn: https://www.linkedin.com/in/viniciusmaffra/
 - E-mail: viniciushmdem15@gmail.com
 - Portfólio: https://github.com/vinimaffra03/vinimaffra03
-
-Sinta-se à vontade para explorar meus repositórios e colaborar comigo em projetos interessantes!
