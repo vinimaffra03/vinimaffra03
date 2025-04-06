@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, com foc
 - Desenvolvimento Full-Stack
 - Blockchain e Contratos Inteligentes ( Web3 )
 - APIs e Integrações
-- Ciência de Dados e Machine Learning
+- Ciência de Dados
 
 📫 Contato:
 - LinkedIn: https://www.linkedin.com/in/viniciusmaffra/
