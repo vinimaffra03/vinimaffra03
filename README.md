@@ -26,9 +26,10 @@ I'm a Front-end Developer with experience in **JavaScript, React, Node.js**, and
 
 ## 📊 GitHub Stats
 
-![Vinícius Mafra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dark)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=dark)
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimaffra03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimaffra03&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
 
 ---
 
