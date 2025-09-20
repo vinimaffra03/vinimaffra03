@@ -38,4 +38,4 @@ I'm a Fullstack Developer with experience in **JavaScript, React, Node.js**, and
 
 ## 🚀 Let's Connect
 
-Reach me at [LinkedIn](https://www.linkedin.com/in/seu-linkedin) or follow my dev journey on [X](https://x.com/seu-usuario).
+Reach me at [LinkedIn](https://www.linkedin.com/in/viniciusmaffra/)
