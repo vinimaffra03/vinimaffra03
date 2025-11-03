@@ -29,9 +29,9 @@ I'm a Fullstack Developer with experience in **JavaScript, React, Node.js**, and
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimaffra03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimaffra03&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinimaffra03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimaffra03&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 ---
