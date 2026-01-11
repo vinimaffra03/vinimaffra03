@@ -35,7 +35,7 @@ I'm a Fullstack Developer with experience in **JavaScript, React, Node.js**, and
   <img
     alt="GitHub Stats"
     height="180em"
-    src="<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinimaffra03&theme=tokyonight" />
+    src="<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinimaffra03&theme=tokyonight/>"
 "
   />
   <img
