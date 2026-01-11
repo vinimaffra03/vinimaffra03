@@ -32,12 +32,8 @@ I'm a Fullstack Developer with experience in **JavaScript, React, Node.js**, and
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img
-    alt="GitHub Stats"
-    height="180em"
-    src="<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinimaffra03&theme=tokyonight/>"
-"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinimaffra03&theme=tokyonight" />
+
   <img
     alt="Top Languages"
     height="180em"
