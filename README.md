@@ -34,12 +34,7 @@ I'm a Fullstack Developer with experience in **JavaScript, React, Node.js**, and
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinimaffra03&theme=tokyonight" />
 
-  <img
-    alt="Top Languages"
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimaffra03&layout=compact&langs_count=6&theme=tokyonight"
-  />
-</div>
+ 
 
 
 ---
