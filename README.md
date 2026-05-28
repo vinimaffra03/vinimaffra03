@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Vinícius Mafra
 
-💻 Fullstack Developer | 🚀 Constant Learner | ⚡ Problem Solver
+💻 Web3 / Fullstack Developer | 🚀 Constant Learner | ⚡ Problem Solver
 
-I'm a Fullstack Developer with +2 Years experience in **JavaScript, React, Node.js**, and **PostgreSQL**. I'm passionate about building **modern web applications** and learning new technologies every day. I enjoy solving problems, exploring new frameworks, and improving my skills to become a better developer.
+I'm a Web3/Fullstack Developer with +3 Years experience in **TypeScript, React, Node.js**, and **PostgreSQL**. I'm passionate about building **modern web applications** and learning new technologies every day. I enjoy solving problems, exploring new frameworks, and improving my skills to become a better developer.
 
 [PORTFOLIO](https://maffra.vercel.app/)
 
